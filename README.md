@@ -1,5 +1,8 @@
 # Hacking Against Trafficking
 
+
+Esto es una modificacion hecha por mi
+
 This projects seeks to be the spiritual successor to the [Hacking Against Slavery](https://hackingagainstslavery.github.io/) project started by Eric Schles. Ideally, this will provide a toolkit that will help citizens and law enforcement agents to help identify cases of sexual trafficking around the world with the help of AI tools.
 
 ## Roadmap
